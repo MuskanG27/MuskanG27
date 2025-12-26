@@ -1,28 +1,24 @@
-# 👋 Hi, I’m Muskan Gupta (@MuskanG27)
+# 👋 Hi, I’m Muskan Gupta | Senior AI/ML Engineer @ Citi
 
-- 👀 I’m passionate about exploring **data**, uncovering insights, and building smart solutions.  
-- 🌱 I’m currently leveling up my skills in **Python, SQL, PowerBI, and Machine Learning**.  
-- 💼 I work as a **Senior Data Scientist at Citi Bank**, focusing on cutting-edge analytics and fraud detection.  
-- 🎓 I graduated in **2021 from one of the top private universities in Chennai**.  
-- 🏔 Originally from **Sikkim**, now living and coding in **Bangalore**.  
-- 💞️ I’m open to collaborating on **Python, ML, or data-driven projects**.  
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muskan-gupta-23772316b/)**.  
+Senior Data Scientist specializing in **Autonomous Agents**, **Fraud Detection**, and **Large-Scale ML Systems**. I build production-grade AI solutions that transform complex data into high-impact automation.
 
----
+## 🚀 Featured Project: Agentic Job Applicant
+**[Agentic_Job_Applicant](https://github.com/MuskanG27/Agentic_Job_Applicant)**
+*A multi-agent system built with **LangGraph** and **Playwright** that automates the job application lifecycle.*
+- **Orchestration**: Uses a state-machine architecture to coordinate between JD analysis, resume tailoring, and browser navigation.
+- **Semantic Memory**: Implements a RAG-based memory system to auto-fill complex portal questions.
+- **Automation**: Physically navigates portals and handles file uploads while maintaining a **Human-in-the-Loop** review stage.
 
-### 🚀 A little more about me
-- Love turning complex datasets into **actionable insights**.  
-- Experimenting with **AI, NLP, and recommendation systems** in my personal projects.  
-- Tea lover ☕ and always up for brainstorming innovative ideas!  
-- Curious explorer — always learning, tinkering, and building.  
+## 🛠️ Technical Arsenal
+- **Generative AI**: LangGraph, LangChain, RAG, Agentic Workflows, LLM Fine-tuning.
+- **Machine Learning**: TensorFlow, PyTorch, XGBoost, Anomaly Detection (Isolation Forest, VAE).
+- **Data Engineering**: PostgreSQL, FAISS, Pinecone, Kafka.
+- **Domain Expertise**: FinTech, Fraud Prevention, Trust & Safety.
 
----
+## 📈 Impact Highlights
+- **At Citi**: Reduced manual regulatory review by **70%**, saving **$500K+ annually** via AI-driven anomaly detection.
+- **At NPCI**: Scaled fraud models to handle **5 Crore+ daily transactions**, reducing fraud losses by **90%+**.
 
-### 📂 Featured Projects
-- **Q&A Chatbot** – Python + Transformers  
-- **PDF Chatbot** – FAISS + MiniLM + Streamlit  
-- **Recommendation System** – Real-time personalized recommendations  
-
----
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/muskan-gupta-/)
 
 Feel free to **browse my repos**, **connect**, or **collaborate**. Let’s build something amazing together! 🚀
